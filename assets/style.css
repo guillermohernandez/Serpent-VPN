@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nav {
+    background: #F5F6F8;
+    font-weight: 600;
+    font-size: 18px;
+    color: #666
+}
+
+.title-one {
+    font-weight: 400;
+    font-size: 30px;
+    color: #333
+}
+
+.title-one p {
+    font-weight: 400;
+    font-size: 18px;
+    color: #666
+}
+
+.title-two {
+    font-weight: 700;
+    font-size: 16px;
+    color: #333
+}
+
+.title-two p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #666
+}
+
+.footer {
+    background: #3A3d40;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.hr {
+    border-top: 1px solid #D8D8D8;
+}
